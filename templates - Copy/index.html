@@ -1,0 +1,9 @@
+<!doctype html>
+<title>Welcome</title>
+<h2>Welcome {{ username }}!</h2>
+<form action="/predict" method="post">
+    Enter your message:<br>
+    <textarea name="message" rows="5" cols="50"></textarea><br>
+    <input type="submit" value="Detect">
+</form>
+<a href="/logout">Logout</a>
