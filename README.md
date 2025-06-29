@@ -66,8 +66,13 @@ pip install -r requirements.txt
 # Step 3: Run the app
 python apps.py
 
+--> screenshots
 
-#screenoshots
-![Login](screenshots/login.png)
-![Home](screenshots/home.png)
-![Result](screenshots/result.png)
+#Login Page  
+<img src="screenshots/login.png" width="500"/>
+
+#Home Page  
+<img src="screenshots/home.png" width="500"/>
+
+#Prediction Result  
+<img src="screenshots/result.png" width="500"/>
