@@ -68,11 +68,12 @@ python apps.py
 
 --> screenshots
 
-#Login Page  
+### 🔐 Login Page  
 <img src="screenshots/login.png" width="500"/>
 
-#Home Page  
+### 🏠 Home Page  
 <img src="screenshots/home.png" width="500"/>
 
-#Prediction Result  
+### ⚠️ Prediction Result  
 <img src="screenshots/result.png" width="500"/>
+
