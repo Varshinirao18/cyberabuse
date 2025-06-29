@@ -65,3 +65,9 @@ pip install -r requirements.txt
 
 # Step 3: Run the app
 python apps.py
+
+
+#screenoshots
+![Login](screenshots/login.png)
+![Home](screenshots/home.png)
+![Result](screenshots/result.png)
